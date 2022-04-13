@@ -41,7 +41,7 @@ export default siteConfig({
   
   pageUrlOverrides: {
     '/compress': 'ba6b0cd76b88411db77ff0ff72389b45',
-    '/compress2': 'a300680f693f45d794a1fa69c69b08ba'
+    // '/compress2': 'a300680f693f45d794a1fa69c69b08ba'
   },
   // pageUrlOverrides: null,
 
