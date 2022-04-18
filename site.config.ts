@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'MT Blog Space',
-  domain: 'domain-not-found',
+  domain: 'https://marsh-dawn-fb8.notion.site',
   author: 'Merih Türkoglu',
 
   // open graph metadata (optional)
