@@ -160,9 +160,10 @@
 }
 
 .notion-title {
-  display: block;
+  /* display: block; */
+  display: inline;
   text-align: center;
-  bottom: 2000;
+  bottom: 20%;
 }
 
 .notion-collection-row {
@@ -350,7 +351,7 @@
 
 /* if you don't want rounded page icon images, remove this */
 .notion-page-icon-hero.notion-page-icon-image {
-  /* position: relative; */
+  position: relative;
   /* left: 2%; */
   bottom: 20%;
   border-radius: 50%;
